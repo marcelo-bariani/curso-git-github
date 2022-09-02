@@ -2,3 +2,7 @@ Pizza
 burguer
 pastel
 sushi
+
+star wars
+indiana jones
+avengers
